@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: demo
+
+# DynamiaTools configuration
+dynamia:
+  app:
+    version: @project.version@
+    name: @project.name@
+    description: @project.description@
+    url: @project.url@
