@@ -19,7 +19,7 @@
     </description>
     <properties>
         <java.version>25</java.version>
-        <dynamia.version>26.4.1</dynamia.version>
+        <dynamia.version>26.9.0</dynamia.version>
     </properties>
     <dependencies>
         <dependency>
