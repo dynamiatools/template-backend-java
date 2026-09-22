@@ -17,19 +17,6 @@
         for building robust and scalable backend services with Spring Boot and DynamiaTools, providing essential
         dependencies and configurations to accelerate development.
     </description>
-    <url/>
-    <licenses>
-        <license/>
-    </licenses>
-    <developers>
-        <developer/>
-    </developers>
-    <scm>
-        <connection/>
-        <developerConnection/>
-        <tag/>
-        <url/>
-    </scm>
     <properties>
         <java.version>25</java.version>
         <dynamia.version>26.4.1</dynamia.version>
@@ -60,7 +47,7 @@
         <dependency>
             <groupId>org.springdoc</groupId>
             <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-            <version>3.0.2</version>
+            <version>3.1.1</version>
         </dependency>
 
         <dependency>

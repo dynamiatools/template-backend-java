@@ -1,6 +1,9 @@
 spring:
   application:
     name: demo
+  threads:
+    virtual:
+      enabled: true
 
 # DynamiaTools configuration
 dynamia:
@@ -8,4 +11,3 @@ dynamia:
     version: @project.version@
     name: @project.name@
     description: @project.description@
-    url: @project.url@
